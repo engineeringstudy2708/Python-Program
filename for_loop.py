@@ -1,7 +1,9 @@
-a=int(input("Enter the value : "))
-for i in range(1,10):
- #print (i)
- a+=1
+num = int(input("Enter the value : "))
+
+for i in range(1,100):
+ 
+ num+=1
+ 
  if(a==5):
      continue
  else:
